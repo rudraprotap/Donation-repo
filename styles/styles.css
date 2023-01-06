@@ -1,0 +1,90 @@
+.a{
+    color: brown;
+}
+.b{
+    padding-left: 130px;
+}
+.c{
+    padding-left: 10px;
+}
+.d{
+    padding-left: 30px;
+}
+.tittle{
+   font-size: 70px;
+   text-align: center;
+   padding-top: 40px;
+}
+.header{
+    background-image:url('/banner.png') ;
+    background-repeat: no-repeat;
+ background-size: cover;
+    
+
+}
+.o{
+    text-align: center;
+    margin-top: 60px;
+    font: size 60px;
+    margin-bottom: 0; 
+}
+.p{
+    
+    color:red;
+    height: 50px;
+    margin-top: 0;
+    
+    
+    background-color: brown;
+}
+.m{
+   text-align: center;
+}
+.btn{
+    text-align: center;
+    height: ;
+   
+    
+}
+.bt{
+    height: 100px;
+  font-weight: 500px;
+  margin-left: 15px;
+  background-color: brown;
+
+}
+.l{
+ text-align: center;
+position: relative;
+}
+.k{
+    text-align: center;
+    margin-top: 40px;
+}
+.j{
+    text-align: center;
+}
+.h{
+   
+    font-size: 30px;
+    color: gray;
+    
+}
+.g{
+    display: flex;
+    text-align: center;
+}
+.f{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.q{
+    background: floralwhite;
+    box-shadow: 5px 20px  rosybrown;
+    gap: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 30px;
+   box -webkit-animation: width: 20px;
+}
